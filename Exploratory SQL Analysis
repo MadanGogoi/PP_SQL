@@ -13,4 +13,22 @@ Acc. to the dataset, the key findings of this project are :
     a)  Music and dance - India
     b) Animation - USA 
 
-  5) 
+  5) Category which has the highest average views 
+    a) Music and Dance
+
+  6) Category which has the highest average likes 
+    a) Design/art
+
+  7) Country audience which has the highest average likes
+    a) United States
+
+  8) Category which has the highest channels
+    a) Music and Dance.
+
+With respect to above explorated results, we can conclude that :
+  -> Tseries has the highest subscribers.
+  -> People like to subscribe "Music and Dance channels", compared to any other category.
+  -> In India, people love to watch Music and Dance .
+  -> In USA, people like animation more.
+  -> United states have the most likes, which can be concluded as - US people are more active in terms of showing their reaction towards the video.
+  -> People mostly like to make videos on Music And Dance.
