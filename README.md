@@ -10,6 +10,9 @@ Here, I am using Social Media Influencers - Youtube dataset and implementing exp
   Which channel gets more comments.
   In which categories, there are most subscribers,average likes, which category has how many channels.
 
+  The link to the dataset is : 
+  https://www.kaggle.com/datasets/ramjasmaurya/top-1000-social-media-channels?select=social+media+influencers+-+youtube.csv
+
   
   
   
